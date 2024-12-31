@@ -1,10 +1,11 @@
 import openai
+import os
 from Base_model import BaseModel
 
 
 class OpenAI_4o(BaseModel):
     def __init__(self):
-        self.api_key = "YOUR_KEY"
+        self.api_key = os.getenv("OPENAI_API_KEY")
         self.question = ""
         self.answer = ""
 
