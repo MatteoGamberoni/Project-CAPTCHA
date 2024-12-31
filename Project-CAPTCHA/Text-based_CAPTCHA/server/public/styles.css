@@ -1,0 +1,30 @@
+body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding: 20px;
+        }
+        .toolbar {
+            background-color: tomato;
+            color: black;
+            padding: 1px;
+            font-size: 15px;
+            position: relative;
+            margin-bottom: 5px;
+            text-align: right;
+        }
+        img {
+            max-width: 15%;
+            height: auto;
+            margin: 20px 0;
+        }
+        button {
+            padding: 10px 20px;
+            margin: 5px;
+            font-size: 16px;
+            cursor: pointer;
+        }
+        .message {
+            margin-top: 20px;
+            font-size: 18px;
+            color: blue;
+        }

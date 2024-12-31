@@ -1,0 +1,73 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>s_api-captcha-jquery-plainphp</title>
+  <link href="styles/styles.css" type="text/css" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <div class="header-content"><h1>s_api-captcha-jquery-plainphp</h1></div>
+    </header>
+
+    <nav>
+      <ul class="nav">
+        <li><a href="basic.html">Basic Example</a></li>
+        <li><a href="contact.html" class="active">Contact Example</a></li>
+      </ul>
+    </nav>
+
+    <section id="main-content">
+        <form id="contactForm" method="POST">
+            <div id="form-messages"></div>
+
+            <label>
+                <span>Name:</span>
+                <input type="text" id="name">
+            </label>
+            <div class="error name"></div>
+
+
+            <label>
+                <span>Email</span>
+                <input type="email" id="email">
+            </label>
+            <div class="error email"></div>
+
+
+            <label>
+                <span>Subject:</span>
+                <input type="text" id="subject">
+            </label>
+            <div class="error subject"></div>
+
+
+            <label>
+                <span>Message:</span>
+                <textarea id="message"></textarea>
+            </label>
+            <div class="error message"></div>
+
+
+            <!-- captcha challenge: placeholder -->
+            <div id="botdetect-captcha" data-captchastylename="jqueryFormCaptcha"></div>
+
+            <label>
+                <span>Retype the characters from the picture:</span>
+                <!-- captcha code: user-input textbox -->
+                <input 
+                    type="text" 
+                    id="userCaptchaInput"
+                >
+            </label>
+
+            <button type="submit" id="submitButton" class="btn btn-primary">Send</button>
+        </form>
+    </section>
+    
+    <script src="node_modules/jquery/jquery.min.js"></script>
+    <script src="node_modules/jquery-captcha/dist/jquery-captcha.min.js"></script>
+    <script src="js/contact.js"></script>
+</body>
+</html>

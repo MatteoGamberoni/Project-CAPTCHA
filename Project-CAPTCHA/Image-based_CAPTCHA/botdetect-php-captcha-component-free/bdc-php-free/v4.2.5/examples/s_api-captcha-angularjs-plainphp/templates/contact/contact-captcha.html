@@ -1,0 +1,64 @@
+<form name="contactForm" novalidate ng-controller="ContactController" ng-submit="send(contactForm.$valid)" >
+
+    <div class="alert alert-error" ng-show="errorMessages">
+        <ul class="list-messages" ng-repeat="(field, message) in errorMessages">
+            <li>{{ message }}</li>
+        </ul>
+    </div>
+    
+    
+    <label>
+        <span>Name:</span>
+        <input type="text" name="name" ng-model="name" ng-minlength="3">
+    </label>
+    
+    <div class="error" ng-show="contactForm.name.$error.minlength && !contactForm.name.$pristine">
+        Name must be at least 3 chars long!
+    </div>
+    
+    
+    <label>
+        <span>Email</span>
+        <input type="email" name="email" ng-model="email" required>
+    </label>
+    
+    <div class="error" ng-show="contactForm.email.$invalid && !contactForm.email.$pristine">
+        Email is invalid!
+    </div>
+    
+
+    <label>
+        <span>Subject:</span>
+        <input type="text" name="subject" ng-model="subject" ng-minlength="10">
+    </label>
+    
+    <div class="error" ng-show="contactForm.subject.$error.minlength">
+        Subject must be at least 10 chars long!
+    </div>
+    
+    
+    <label>
+        <span>Message:</span>
+        <textarea name="message" ng-model="message" ng-minlength="10"></textarea>
+    </label>
+    
+    <div class="error" ng-show="contactForm.message.$error.minlength">
+        Message must be at least 10 chars long!
+    </div>
+    
+    
+    <!-- captcha challenge: placeholder -->
+    <botdetect-captcha captchaStyleName="angularFormCaptcha"></botdetect-captcha>
+    
+    <label>
+        <span>Retype the chars long from the picture:</span>
+        <!-- captcha code: user-input textbox -->
+        <input type="text" 
+               name="userCaptchaInput" 
+               id="userCaptchaInput" 
+               ng-model="userCaptchaInput"
+        >
+    </label>
+
+    <button type="submit" class="btn btn-primary">Send</button>
+</form>

@@ -1,0 +1,1946 @@
+OpenAI Result: CAPTCHA passed!
+OpenAI Result: CAPTCHA passed!
+OpenAI Result: CAPTCHA passed!
+OpenAI Result: CAPTCHA passed!
+OpenAI Result: CAPTCHA passed!
+OpenAI Result: CAPTCHA passed!
+OpenAI Result: Incorrect CAPTCHA answer. Please try again.
+OpenAI Result: Incorrect CAPTCHA answer. Please try again.
+OpenAI Result: CAPTCHA passed!
+OpenAI Result: CAPTCHA passed!
+OpenAI Result: CAPTCHA passed!
+OpenAI Result: Incorrect CAPTCHA answer. Please try again.
+OpenAI Result: CAPTCHA passed!
+OpenAI Result: CAPTCHA passed!
+OpenAI Result: CAPTCHA passed!
+OpenAI Result: CAPTCHA passed!
+OpenAI Result: CAPTCHA passed!
+OpenAI Result: Incorrect CAPTCHA answer. Please try again.
+CAPTCHA Question: What is the 5th colour in the list penguin, red, black, purple, green and pink?
+Generated Answer: Pink
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: What is Mark's name?
+Generated Answer: Mark
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: Tomorrow is Wednesday. If this is true, what day is today?
+Generated Answer: Tuesday
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: Thumb, red, yellow, blue, white and pink: how many colours in the list?
+Generated Answer: Five
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: If the rice is brown, what colour is it?
+Generated Answer: Brown
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: Eighty, 22 or eighty seven: the biggest is?
+Generated Answer: Eighty
+OpenAI Result: Incorrect CAPTCHA answer. Please try again.
+
+CAPTCHA Question: Which digit is 3rd in the number 1709340?
+Generated Answer: 0
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: What is eighty seven thousand four hundred and forty three as digits?
+Generated Answer: 87443
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: The white house is what colour?
+Generated Answer: White
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: Chris' name is?
+Generated Answer: Chris
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: What is the 4th digit in 4544243?
+Generated Answer: 4
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: The list underpants, chips, hotel, bread, purple and tongue contains how many colours?
+Generated Answer: One
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: The yellow chips is what colour?
+Generated Answer: Yellow
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: The number of body parts in the list hotel, lion and elbow is?
+Generated Answer: One
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: Enter the number seven thousand eight hundred and forty seven in digits:
+Generated Answer: 7847
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: The 4th number from five, twenty five, twenty, thirty eight and 14 is?
+Generated Answer: Thirty
+OpenAI Result: Incorrect CAPTCHA answer. Please try again.
+
+CAPTCHA Question: Elbow, hotel, brain, heart, ear and tooth: how many body parts in the list?
+Generated Answer: Four
+OpenAI Result: Incorrect CAPTCHA answer. Please try again.
+
+CAPTCHA Question: What's nine minus five?
+Generated Answer: Four
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: 48, thirty eight or seventy three: the highest is?
+Generated Answer: seventy
+OpenAI Result: Incorrect CAPTCHA answer. Please try again.
+
+CAPTCHA Question: What is 6 add seven?
+Generated Answer: Thirteen
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: Thirty one, eighteen, twelve and twenty eight: the 2nd number is?
+Generated Answer: Eighteen
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: The name of Charles is?
+Generated Answer: Charles
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: What is the 3rd number in the list thirty one, 5, 19, 31 and 35?
+Generated Answer: 19
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: The name of Richard is?
+Generated Answer: Richard
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: If the coat is yellow, what colour is it?
+Generated Answer: Yellow
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: Of the numbers forty one, 89, 78 or 43, which is the largest?
+Generated Answer: 89
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: What is ninety thousand three hundred and seventy as digits?
+Generated Answer: 90370
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: How many colours in the list milk, white, bank, duck and hair?
+Generated Answer: One
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: If the bank is black, what colour is it?
+Generated Answer: Black
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: What number is 3rd in the series twenty seven, thirty eight, 7 and 27?
+Generated Answer: seven
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: The name of Charles is?
+Generated Answer: Charles
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: George's name is?
+Generated Answer: George
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: The 3rd number from twelve, 1 and 27 is?
+Generated Answer: 27
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: Enter the number forty seven thousand nine hundred and forty one in digits:
+Generated Answer: 47941
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: Which digit is 1st in the number 2622739?
+Generated Answer: Two
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: Of the numbers 32, 74, forty, 22, twenty six or 92, which is the highest?
+Generated Answer: 92
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: What's 14 - 1?
+Generated Answer: 13
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: The name of Linda is?
+Generated Answer: Linda
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: 6 plus nine is what?
+Generated Answer: Fifteen
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: What is fifty eight thousand four hundred and seven as digits?
+Generated Answer: 58407
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: The pink library is what colour?
+Generated Answer: Pink
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: 48, 47, two, forty, 27 or 85: which of these is the highest?
+Generated Answer: 85
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: Which digit is 3rd in the number 1709340?
+Generated Answer: 0
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: Which of eighty one, fifty three or 27 is the largest?
+Generated Answer: Eighty-one
+OpenAI Result: Incorrect CAPTCHA answer. Please try again.
+
+CAPTCHA Question: 13 - three equals ?
+Generated Answer: Ten
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: Of the numbers 73, 83, 55, seventy five, sixty four or three, which is the largest?
+Generated Answer: eighty-three
+OpenAI Result: Incorrect CAPTCHA answer. Please try again.
+
+CAPTCHA Question: The 2nd colour in green, dress, pink, brown, red and face is?
+Generated Answer: dress
+OpenAI Result: Incorrect CAPTCHA answer. Please try again.
+
+CAPTCHA Question: Chin, face, tongue, knee, leg and chips: how many body parts in the list?
+Generated Answer: Five
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: Of the numbers 25, twenty seven, eighty three, seventy one, one or thirty eight, which is the biggest?
+Generated Answer: eighty-three
+OpenAI Result: Incorrect CAPTCHA answer. Please try again.
+
+CAPTCHA Question: What number is 3rd in the series 4, seventeen, thirty seven, 16 and twenty three?
+Generated Answer: thirty
+OpenAI Result: Incorrect CAPTCHA answer. Please try again.
+
+CAPTCHA Question: The list ear, stomach, knee, dress and foot contains how many body parts?
+Generated Answer: Four
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: What is David's name?
+Generated Answer: David
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: The colour of a purple hotel is?
+Generated Answer: Purple
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: 7 + 2 is what?
+Generated Answer: Nine
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: The name of Robert is?
+Generated Answer: Robert
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: The number of body parts in the list tooth, shark and arm is?
+Generated Answer: Two
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: The list elbow, toe, thumb, monkey, tracksuit and knee contains how many body parts?
+Generated Answer: Four
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: What is Sandra's name?
+Generated Answer: Sandra
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: The name of Edward is?
+Generated Answer: Edward
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: Which of 84, 76, sixteen, fifty one or 5 is the highest?
+Generated Answer: eightyfour
+OpenAI Result: Incorrect CAPTCHA answer. Please try again.
+
+CAPTCHA Question: What is the 1st digit in 8068981?
+Generated Answer: Eight
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: What day is today, if yesterday was Sunday?
+Generated Answer: Monday
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: Seven + 2 is what?
+Generated Answer: Nine
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: 40, 36, seventeen and seven: the 4th number is?
+Generated Answer: seven
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: Red, pink, black, bank and purple: how many colours in the list?
+Generated Answer: Four
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: What is Jennifer's name?
+Generated Answer: Jennifer
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: What is seventy seven thousand two hundred and eighty one as a number?
+Generated Answer: 77281
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: In the number 8951169, what is the 6th digit?
+Generated Answer: 6
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: The name of Mary is?
+Generated Answer: Mary
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: The list heart, stomach and tracksuit contains how many body parts?
+Generated Answer: Two
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: What is the 4th number in the list thirty four, twenty five, 28 and thirty three?
+Generated Answer: 33
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: What is the 2nd number in the list 20, twenty five, thirty three, 25 and 32?
+Generated Answer: 25
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: What is eight thousand four hundred and forty two as a number?
+Generated Answer: 8442
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: The name of Emily is?
+Generated Answer: Emily
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: The name of James is?
+Generated Answer: James
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: The list cat, black, pink, purple and green contains how many colours?
+Generated Answer: Four
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: What is 1 plus ten?
+Generated Answer: Eleven
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: Of the numbers fifty five, thirty three or 97, which is the lowest?
+Generated Answer: thirty
+OpenAI Result: Incorrect CAPTCHA answer. Please try again.
+
+CAPTCHA Question: The number of body parts in the list eye, tooth, egg, T-shirt and ankle is?
+Generated Answer: Three
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: Elbow, fruit and head: how many body parts in the list?
+Generated Answer: Two
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: What is 17 - 2?
+Generated Answer: Fifteen
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: Of the numbers 73, 67, eighty eight, 41, forty six or 36, which is the biggest?
+Generated Answer: eighty
+OpenAI Result: Incorrect CAPTCHA answer. Please try again.
+
+CAPTCHA Question: What is seventy five thousand seven hundred and eighty as a number?
+Generated Answer: 75780
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: 77, 89, 90 or seventy eight: which of these is the biggest?
+Generated Answer: ninety
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: The name of William is?
+Generated Answer: William
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: Two plus 3 is what?
+Generated Answer: Five
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: Of the numbers 30, eighty four, eighty nine or twenty three, which is the largest?
+Generated Answer: Eighty-nine
+OpenAI Result: Incorrect CAPTCHA answer. Please try again.
+
+CAPTCHA Question: What is Steven's name?
+Generated Answer: Steven
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: 9 - six = ?
+Generated Answer: Three
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: The list tooth, dog, soup and brain contains how many body parts?
+Generated Answer: Two
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: Seven add 3 equals ?
+Generated Answer: Ten
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: The colour of a brown underpants is?
+Generated Answer: Brown
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: The list rainjacket, yellow, brown, bread, black and purple contains how many colours?
+Generated Answer: Four
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: The 3rd number from 11, 18, thirty seven and 14 is?
+Generated Answer: thirty-seven
+OpenAI Result: Incorrect CAPTCHA answer. Please try again.
+
+CAPTCHA Question: Of the numbers eighty, 89 or ninety five, which is the largest?
+Generated Answer: ninetyfive
+OpenAI Result: Incorrect CAPTCHA answer. Please try again.
+
+CAPTCHA Question: The number of body parts in the list cat, ear, duck, school and coat is?
+Generated Answer: One
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: What is sixty six thousand three hundred and ten as digits?
+Generated Answer: 66310
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: What is forty four thousand and ninety seven as digits?
+Generated Answer: 44097
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: Ear, rice and finger: how many body parts in the list?
+Generated Answer: Two
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: 20, 61, fifty five or eighty three: the largest is?
+Generated Answer: eighty
+OpenAI Result: Incorrect CAPTCHA answer. Please try again.
+
+CAPTCHA Question: Of the numbers eighty, seventy two or 75, which is the highest?
+Generated Answer: Eighty
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: Three add 2 is what?
+Generated Answer: Five
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: What number is 4th in the series 8, 10, 6 and thirty?
+Generated Answer: thirty
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: Bee, chin, pink, black and yellow: how many colours in the list?
+Generated Answer: Three
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: How many colours in the list blue, pink, yellow, black, T-shirt and brown?
+Generated Answer: Five
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: Two plus 2 equals ?
+Generated Answer: Four
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: What is nine - 5?
+Generated Answer: Four
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: Of the numbers 73, thirty, 59 or 5, which is the highest?
+Generated Answer: 73
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: In the number 9536623, what is the 2nd digit?
+Generated Answer: 5
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: What number is 2nd in the series seventeen, 12, twenty one and 1?
+Generated Answer: 12
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: Tomorrow is Monday. If this is true, what day is today?
+Generated Answer: Sunday
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: What is sixty two thousand four hundred and sixty five as a number?
+Generated Answer: 62465
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: In the number 2301282, what is the 6th digit?
+Generated Answer: 8
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: What is fifty three thousand one hundred and fourteen as digits?
+Generated Answer: 53114
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: 7 plus 3 is what?
+Generated Answer: Ten
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: The list hand, bank and hospital contains how many body parts?
+Generated Answer: One
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: The number of body parts in the list finger, chips, hand, foot and heart is?
+Generated Answer: Three
+OpenAI Result: Incorrect CAPTCHA answer. Please try again.
+
+CAPTCHA Question: In the number 7679658, what is the 2nd digit?
+Generated Answer: 6
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: Enter the biggest number of thirty seven, fifty nine, 20, sixty nine or 100:
+Generated Answer: 100
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: In the number 9843993, what is the 7th digit?
+Generated Answer: 3
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: Enter the number sixty nine thousand two hundred and eighty four in digits:
+Generated Answer: 69284
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: Enter the highest number of sixty, 71 or 44:
+Generated Answer: Seventy-one
+OpenAI Result: Incorrect CAPTCHA answer. Please try again.
+
+CAPTCHA Question: What is eighty seven thousand six hundred and ten as a number?
+Generated Answer: 87610
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: What number is 2nd in the series 16, two and twelve?
+Generated Answer: Two
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: Glove, ant, school, yellow and library: how many colours in the list?
+Generated Answer: One
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: Which of 7, 77 or sixty eight is the largest?
+Generated Answer: sixty
+OpenAI Result: Incorrect CAPTCHA answer. Please try again.
+
+CAPTCHA Question: What is twenty two thousand five hundred and fifty three as a number?
+Generated Answer: 22553
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: The blue hotel is what colour?
+Generated Answer: Blue
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: Finger, coat and rainjacket: how many body parts in the list?
+Generated Answer: One
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: What is sixty nine thousand six hundred and sixty five as a number?
+Generated Answer: 69665
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: Carol's name is?
+Generated Answer: Carol
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: 7 add two is what?
+Generated Answer: Nine
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: Which digit is 2nd in the number 4038230?
+Generated Answer: 0
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: Lisa's name is?
+Generated Answer: Lisa
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: 4, nineteen and 21: the 1st number is?
+Generated Answer: Four
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: If a person is called Paul, what is their name?
+Generated Answer: Paul
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: 24, thirty and thirty five: the 2nd number is?
+Generated Answer: Thirty
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: What is fifty eight thousand six hundred and twenty two as a number?
+Generated Answer: 58622
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: The colour of a blue soup is?
+Generated Answer: Blue
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: If tomorrow is Monday, what day is today?
+Generated Answer: Sunday
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: What is fifty one thousand four hundred and sixty nine as a number?
+Generated Answer: 51469
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: What is ten minus three?
+Generated Answer: Seven
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: The red bank is what colour?
+Generated Answer: Red
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: Brown, pink, blue, ant and cat: the 1st colour is?
+Generated Answer: Brown
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: What is thirty seven thousand four hundred and forty three as digits?
+Generated Answer: 37443
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: 56, twenty nine, twenty nine or fifty: the highest is?
+Generated Answer: fifty
+OpenAI Result: Incorrect CAPTCHA answer. Please try again.
+
+CAPTCHA Question: What is ten thousand five hundred and eighty four as a number?
+Generated Answer: 10584
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: The number of body parts in the list finger, tongue, toe, foot and mosquito is?
+Generated Answer: Four
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: Enter the smallest number of seventy, seventy two, twenty two, 35 or twenty nine:
+Generated Answer: twenty
+OpenAI Result: Incorrect CAPTCHA answer. Please try again.
+
+CAPTCHA Question: 46, 2, eighty seven or 92: the largest is?
+Generated Answer: ninety-two
+OpenAI Result: Incorrect CAPTCHA answer. Please try again.
+
+CAPTCHA Question: Enter the number five thousand seven hundred and fifty two in digits:
+Generated Answer: 5752
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: The colour of a purple cake is?
+Generated Answer: Purple
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: What is the 7th digit in 4479646?
+Generated Answer: 6
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: Which of ninety four, thirty six, 48, ninety four, 100 or 57 is the highest?
+Generated Answer: 100
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: The list egg, hotel and thumb contains how many body parts?
+Generated Answer: One
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: What is ten thousand and ten as digits?
+Generated Answer: 10010
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: The 1st number from seven, 18 and 34 is?
+Generated Answer: Seven
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: In the number 3245600, what is the 7th digit?
+Generated Answer: 3
+OpenAI Result: Incorrect CAPTCHA answer. Please try again.
+
+CAPTCHA Question: What's fifteen - one?
+Generated Answer: Fourteen
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: How many colours in the list restaurant, red, eye and brown?
+Generated Answer: Two
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: Brown, pink, school, penguin and wine: how many colours in the list?
+Generated Answer: Two
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: Two plus seven is what?
+Generated Answer: Nine
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: The number of body parts in the list apple, underpants, church, hair and coffee is?
+Generated Answer: one
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: The list finger, hotel, pub, egg and rice contains how many body parts?
+Generated Answer: One
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: Elbow, leg, shark and restaurant: how many body parts in the list?
+Generated Answer: Two
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: The pink sweatshirt is what colour?
+Generated Answer: Pink
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: Five plus three equals ?
+Generated Answer: Eight
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: The list T-shirt, pink, yellow and blue contains how many colours?
+Generated Answer: Three
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: Seventy five, 86 or fifty one: the largest is?
+Generated Answer: Eighty-six
+OpenAI Result: Incorrect CAPTCHA answer. Please try again.
+
+CAPTCHA Question: What is 7 plus 5?
+Generated Answer: Twelve
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: 5 add 9 is what?
+Generated Answer: Fourteen
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: If a person is called Daniel, what is their name?
+Generated Answer: Daniel
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: What is thirty two thousand seven hundred and fifty nine as a number?
+Generated Answer: 32759
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: How many colours in the list house, pink and school?
+Generated Answer: One
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: The list ear, chest, cake and T-shirt contains how many body parts?
+Generated Answer: Two
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: What is the 2nd number in the list 40, 33 and 2?
+Generated Answer: 33
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: The 2nd number from eight, twenty three and 39 is?
+Generated Answer: twenty-three
+OpenAI Result: Incorrect CAPTCHA answer. Please try again.
+
+CAPTCHA Question: The list chest, nose, rainjacket, foot and monkey contains how many body parts?
+Generated Answer: Three
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: If a person is called Jennifer, what is their name?
+Generated Answer: Jennifer
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: 5 plus 8 = ?
+Generated Answer: Thirteen
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: Tomorrow is Friday. If this is true, what day is today?
+Generated Answer: Thursday
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: In the number 22095, what is the 2nd digit?
+Generated Answer: 2
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: How many colours in the list white, purple, yellow and fruit?
+Generated Answer: Three
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: Enter the number eighty thousand seven hundred and fifteen in digits:
+Generated Answer: 80715
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: In the number 6942734, what is the 2nd digit?
+Generated Answer: Nine
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: What is the 2nd digit in 7929397?
+Generated Answer: 9
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: Purple, snake, hospital and brown: the 1st colour is?
+Generated Answer: Purple
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: If a person is called Paul, what is their name?
+Generated Answer: Paul
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: Steven's name is?
+Generated Answer: Steven
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: Which of 78, 22, 28, forty seven, seventy five or forty eight is the largest?
+Generated Answer: seventy
+OpenAI Result: Incorrect CAPTCHA answer. Please try again.
+
+CAPTCHA Question: Red, shark and brown: how many colours in the list?
+Generated Answer: Two
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: Which of 68, sixty, 62 or sixty is the highest?
+Generated Answer: Sixty
+OpenAI Result: Incorrect CAPTCHA answer. Please try again.
+
+CAPTCHA Question: The name of John is?
+Generated Answer: John
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: What is Sandra's name?
+Generated Answer: Sandra
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: The 1st number from 38, 17 and 11 is?
+Generated Answer: 38
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: 6 add 6 is what?
+Generated Answer: Twelve
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: 69, 25, fifty five or forty five: which of these is the highest?
+Generated Answer: sixty-nine
+OpenAI Result: Incorrect CAPTCHA answer. Please try again.
+
+CAPTCHA Question: Which digit is 4th in the number 1984524?
+Generated Answer: 4
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: The list nose, fruit, finger, chin, mosquito and chips contains how many body parts?
+Generated Answer: Three
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: Thirty three, eighteen, twenty four, four and thirty four: the 5th number is?
+Generated Answer: Thirty-four
+OpenAI Result: Incorrect CAPTCHA answer. Please try again.
+
+CAPTCHA Question: If a person is called Jennifer, what is their name?
+Generated Answer: Jennifer
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: Which digit is 4th in the number 9605858?
+Generated Answer: 5
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: What is ninety eight thousand two hundred and eighty four as a number?
+Generated Answer: 98284
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: What is the 1st colour in the list brown, black, green, trousers and rice?
+Generated Answer: brown
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: What is Chris' name?
+Generated Answer: Chris
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: Sixteen minus 4 is what?
+Generated Answer: Twelve
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: Which digit is 7th in the number 2620725?
+Generated Answer: 5
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: The list fruit, foot, cow and head contains how many body parts?
+Generated Answer: Two
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: 69, sixty four, 33, 78 or 96: which of these is the biggest?
+Generated Answer: 96
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: What number is 3rd in the series 32, 25 and 1?
+Generated Answer: 1
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: Rice, finger, face and library: how many body parts in the list?
+Generated Answer: Two
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: The number of body parts in the list knee, shirt and thumb is?
+Generated Answer: Two
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: The colour of a purple rainjacket is?
+Generated Answer: Purple
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: Which of sixteen, 6, 60, 98, fourteen or ninety is the biggest?
+Generated Answer: ninety
+OpenAI Result: Incorrect CAPTCHA answer. Please try again.
+
+CAPTCHA Question: The blue elephant is what colour?
+Generated Answer: Blue
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: The name of Steven is?
+Generated Answer: Steven
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: What is the 1st digit in 3993106?
+Generated Answer: Three
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: What number is 1st in the series twenty, forty, twenty one, 16 and 18?
+Generated Answer: 16
+OpenAI Result: Incorrect CAPTCHA answer. Please try again.
+
+CAPTCHA Question: What is the 5th digit in 9192698?
+Generated Answer: 6
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: What is seventy seven thousand eight hundred and forty seven as a number?
+Generated Answer: 77847
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: In the number 2305472, what is the 7th digit?
+Generated Answer: 2
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: What is forty thousand seven hundred and sixty six as digits?
+Generated Answer: 40766
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: If the coffee is brown, what colour is it?
+Generated Answer: Brown
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: The number of body parts in the list nose, ear, stomach and hotel is?
+Generated Answer: Three
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: Tomorrow is Sunday. If this is true, what day is today?
+Generated Answer: Saturday
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: Ten minus 3 = ?
+Generated Answer: Seven
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: The number of body parts in the list eye, cake and hospital is?
+Generated Answer: One
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: Enter the number thirty eight thousand and seven in digits:
+Generated Answer: 38007
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: If the penguin is yellow, what colour is it?
+Generated Answer: Yellow
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: Which of 7, ninety two, sixty nine, 65, 22 or ten is the largest?
+Generated Answer: ninety
+OpenAI Result: Incorrect CAPTCHA answer. Please try again.
+
+CAPTCHA Question: The list stomach, coat, toe, foot and eye contains how many body parts?
+Generated Answer: Four
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: If the heart is blue, what colour is it?
+Generated Answer: Blue
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: What is George's name?
+Generated Answer: George
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: 6 plus ten is what?
+Generated Answer: Sixteen
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: The colour of a blue toe is?
+Generated Answer: Blue
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: Which digit is 5th in the number 4319517?
+Generated Answer: 5
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: The 1st number from 2, 24, 7, fifteen and 34 is?
+Generated Answer: 2
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: What is the 4th colour in the list white, yellow, purple, blue and cheese?
+Generated Answer: Blue
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: Four + 7 is what?
+Generated Answer: Eleven
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: 7, 33 and ten: the 2nd number is?
+Generated Answer: Thirty-three
+OpenAI Result: Incorrect CAPTCHA answer. Please try again.
+
+CAPTCHA Question: Eighty three, sixty four or ninety six: which of these is the largest?
+Generated Answer: ninety-six
+OpenAI Result: Incorrect CAPTCHA answer. Please try again.
+
+CAPTCHA Question: The colour of a green ankle is?
+Generated Answer: Green
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: If a person is called Susan, what is their name?
+Generated Answer: Susan
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: What is eleven thousand three hundred and fourteen as digits?
+Generated Answer: 11314
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: If a person is called Paul, what is their name?
+Generated Answer: Paul
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: The 3rd number from fourteen, thirty one and 1 is?
+Generated Answer: 1
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: The red cake is what colour?
+Generated Answer: Red
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: 14, eighty nine, twenty, six, sixty six or 30: which of these is the biggest?
+Generated Answer: eighty
+OpenAI Result: Incorrect CAPTCHA answer. Please try again.
+
+CAPTCHA Question: The list restaurant, brown, soup, mouse and sock contains how many colours?
+Generated Answer: One
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: The list red, brown, hand, face and school contains how many colours?
+Generated Answer: Two
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: What is twenty five thousand six hundred and seventy seven as digits?
+Generated Answer: 25677
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: What is the 4th number in the list 36, 24, 15, 21 and 4?
+Generated Answer: 21
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: Linda's name is?
+Generated Answer: Linda
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: What is six thousand and eighteen as a number?
+Generated Answer: 6018
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: 2 + 10 is what?
+Generated Answer: Twelve
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: The red cat is what colour?
+Generated Answer: Red
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: Enter the highest number of fifty three, sixty one, 73, 28, sixty five or seventy seven:
+Generated Answer: Seventy seven
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: Foot, white, chest, rice, brain and red: the 2nd colour is?
+Generated Answer: Red
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: White, hotel, purple and rainjacket: the 2nd colour is?
+Generated Answer: Purple
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: The list rainjacket, soup, sweatshirt, leg, dress and chin contains how many body parts?
+Generated Answer: Two
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: The name of Mark is?
+Generated Answer: Mark
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: What is forty three thousand one hundred and six as a number?
+Generated Answer: 43106
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: What is Mary's name?
+Generated Answer: Mary
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: 81, fifty one or 99: the biggest is?
+Generated Answer: Ninety-nine
+OpenAI Result: Incorrect CAPTCHA answer. Please try again.
+
+CAPTCHA Question: If the mouse is yellow, what colour is it?
+Generated Answer: Yellow
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: Sock, rice, tooth, rice, leg and toe: how many body parts in the list?
+Generated Answer: 3
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: What is seven + four?
+Generated Answer: Eleven
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: What is sixty six thousand four hundred and eighty three as a number?
+Generated Answer: 66483
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: What day is today, if tomorrow is Wednesday?
+Generated Answer: Tuesday
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: Enter the number forty two thousand seven hundred and ninety in digits:
+Generated Answer: 42790
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: The list cake, red, brown, purple and green contains how many colours?
+Generated Answer: Four
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: George's name is?
+Generated Answer: George
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: Nine, thirty one, 32, thirty two and 19: the 4th number is?
+Generated Answer: Thirty
+OpenAI Result: Incorrect CAPTCHA answer. Please try again.
+
+CAPTCHA Question: If tomorrow is Thursday, what day is today?
+Generated Answer: Wednesday
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: Thirteen minus 7 is what?
+Generated Answer: Six
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: Which of seven, sixty six or thirty five is the largest?
+Generated Answer: Sixty
+OpenAI Result: Incorrect CAPTCHA answer. Please try again.
+
+CAPTCHA Question: What is eighty thousand four hundred and ninety five as digits?
+Generated Answer: 80495
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: What is Chris' name?
+Generated Answer: Chris
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: Enter the highest number of 43, eighty eight or thirty four:
+Generated Answer: Eighty-eight
+OpenAI Result: Incorrect CAPTCHA answer. Please try again.
+
+CAPTCHA Question: The name of Paul is?
+Generated Answer: Paul
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: What is the 1st colour in the list bee, blue, yellow and black?
+Generated Answer: Bee
+OpenAI Result: Incorrect CAPTCHA answer. Please try again.
+
+CAPTCHA Question: Pink, green, blue, brown, rainjacket and purple: the 4th colour is?
+Generated Answer: Brown
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: What number is 1st in the series 38, twenty seven, two and 31?
+Generated Answer: 38
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: Which digit is 4th in the number 7860825?
+Generated Answer: 0
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: Enter the number eighty nine thousand two hundred and fifty nine in digits:
+Generated Answer: 89259
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: 1, twenty five and twenty five: the 3rd number is?
+Generated Answer: Thirty
+OpenAI Result: Incorrect CAPTCHA answer. Please try again.
+
+CAPTCHA Question: Hotel, blue and mosquito: how many colours in the list?
+Generated Answer: One
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: How many colours in the list underpants, brown, brain, knee and mouse?
+Generated Answer: One
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: What is the 4th number in the list 6, twenty four, 14 and twenty?
+Generated Answer: twenty
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: What is two add 9?
+Generated Answer: Eleven
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: The name of Robert is?
+Generated Answer: Robert
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: Which of ten, 85, 7, 77, sixty seven or 28 is the largest?
+Generated Answer: eightyfive
+OpenAI Result: Incorrect CAPTCHA answer. Please try again.
+
+CAPTCHA Question: What's twenty - 5?
+Generated Answer: Fifteen
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: 67, four or thirty one: the smallest is?
+Generated Answer: four
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: Which digit is 6th in the number 5347083?
+Generated Answer: 8
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: What is the 1st colour in the list yellow, blue, wine, pink and white?
+Generated Answer: Yellow
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: If the coffee is green, what colour is it?
+Generated Answer: Green
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: 12 minus two equals ?
+Generated Answer: Ten
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: What number is 3rd in the series 35, thirty three, thirty eight, twenty eight and twenty five?
+Generated Answer: Thirtyeight
+OpenAI Result: Incorrect CAPTCHA answer. Please try again.
+
+CAPTCHA Question: Enter the highest number of fifty eight, forty four, 34, eleven, 46 or 76:
+Generated Answer: Seventy-six
+OpenAI Result: Incorrect CAPTCHA answer. Please try again.
+
+CAPTCHA Question: What is fifty nine thousand nine hundred and two as a number?
+Generated Answer: 59902
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: Which of twelve, 7 or sixty eight is the biggest?
+Generated Answer: sixtyeight
+OpenAI Result: Incorrect CAPTCHA answer. Please try again.
+
+CAPTCHA Question: What's 9 - seven?
+Generated Answer: Two
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: What is fifty four thousand four hundred as a number?
+Generated Answer: 54400
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: Of the numbers 99, fifty seven, sixty six or thirty one, which is the highest?
+Generated Answer: Ninety-nine
+OpenAI Result: Incorrect CAPTCHA answer. Please try again.
+
+CAPTCHA Question: The list rice, church and brain contains how many body parts?
+Generated Answer: One
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: Nose, ear, cow, wine, toe and egg: how many body parts in the list?
+Generated Answer: Four
+OpenAI Result: Incorrect CAPTCHA answer. Please try again.
+
+CAPTCHA Question: The 5th number from six, thirty one, thirty four, twenty three and twenty four is?
+Generated Answer: Twentyfour
+OpenAI Result: Incorrect CAPTCHA answer. Please try again.
+
+CAPTCHA Question: What is eighteen thousand seven hundred and ninety three as a number?
+Generated Answer: 18793
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: 4, 53 or 41: the largest is?
+Generated Answer: 53
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: The name of Charles is?
+Generated Answer: Charles
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: What is Mary's name?
+Generated Answer: Mary
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: The list mosquito, knee, dress and pink contains how many colours?
+Generated Answer: One
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: If tomorrow is Saturday, what day is today?
+Generated Answer: Friday
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: What is thirteen thousand seven hundred and fourteen as digits?
+Generated Answer: 13714
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: Which digit is 6th in the number 5810567?
+Generated Answer: Six
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: The 2nd colour in finger, purple, brown and chips is?
+Generated Answer: Purple
+OpenAI Result: Incorrect CAPTCHA answer. Please try again.
+
+CAPTCHA Question: What is Emily's name?
+Generated Answer: Emily
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: Which of 32, thirty one, 22 or 58 is the biggest?
+Generated Answer: fiftyeight
+OpenAI Result: Incorrect CAPTCHA answer. Please try again.
+
+CAPTCHA Question: Mary's name is?
+Generated Answer: Mary
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: Enter the highest number of 39, 93 or 17:
+Generated Answer: 93
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: The name of Edward is?
+Generated Answer: Edward
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: White, hospital, trousers and glove: how many colours in the list?
+Generated Answer: One
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: 52, 13, twelve, ninety eight, 64 or ninety: which of these is the biggest?
+Generated Answer: ninety
+OpenAI Result: Incorrect CAPTCHA answer. Please try again.
+
+CAPTCHA Question: The name of Steven is?
+Generated Answer: Steven
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: If tomorrow is Thursday, what day is today?
+Generated Answer: Wednesday
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: In the number 1152845, what is the 7th digit?
+Generated Answer: 5
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: What is thirty eight thousand five hundred and eighteen as digits?
+Generated Answer: 38518
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: What is eighty three thousand and seventy one as a number?
+Generated Answer: 83071
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: The name of William is?
+Generated Answer: William
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: What is the 4th digit in 5767513?
+Generated Answer: 7
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: Which of these is a body part: jelly, ant, school, tooth or hotel?
+Generated Answer: Tooth
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: The list fruit, foot, cow and head contains how many body parts?
+Generated Answer: Two
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: What number is 1st in the series 12, thirteen, 20 and 40?
+Generated Answer: 12
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: What is Mary's name?
+Generated Answer: Mary
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: The list green, blue and glove contains how many colours?
+Generated Answer: Two
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: The yellow hair is what colour?
+Generated Answer: Blonde
+OpenAI Result: Incorrect CAPTCHA answer. Please try again.
+
+CAPTCHA Question: Enter the number eleven thousand nine hundred and seventy nine in digits:
+Generated Answer: 11979
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: How many colours in the list shirt, sock, blue, green and red?
+Generated Answer: Three
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: Cheese, stomach and butter: how many body parts in the list?
+Generated Answer: One
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: The number of body parts in the list duck, arm, tooth, monkey and toe is?
+Generated Answer: Three
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: Bee, school and white: how many colours in the list?
+Generated Answer: One
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: What is six thousand and forty seven as digits?
+Generated Answer: 6047
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: The colour of a brown school is?
+Generated Answer: Brown
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: The colour of a white school is?
+Generated Answer: White
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: 59, 34 or 8: the largest is?
+Generated Answer: 59
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: What is the 1st colour in the list glove, library, red, tongue, mosquito and green?
+Generated Answer: Red
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: 88, 80, twenty eight, 47, ninety nine or 72: which of these is the biggest?
+Generated Answer: ninety
+OpenAI Result: Incorrect CAPTCHA answer. Please try again.
+
+CAPTCHA Question: Eight, 79, eighty eight or thirty seven: which of these is the highest?
+Generated Answer: eighty
+OpenAI Result: Incorrect CAPTCHA answer. Please try again.
+
+CAPTCHA Question: The list tracksuit, head and chips contains how many body parts?
+Generated Answer: One
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: Enter the biggest number of 55, 14, thirty one, 40 or 99:
+Generated Answer: 99
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: Seventy five, sixty or forty seven: which of these is the highest?
+Generated Answer: Seventy
+OpenAI Result: Incorrect CAPTCHA answer. Please try again.
+
+CAPTCHA Question: 8 + nine is what?
+Generated Answer: Seventeen
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: In the number 1397436, what is the 5th digit?
+Generated Answer: 4
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: The brown bee is what colour?
+Generated Answer: Brown
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: What is sixteen thousand six hundred and fourteen as digits?
+Generated Answer: 16614
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: The pink butter is what colour?
+Generated Answer: Pink
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: What day is today, if yesterday was Saturday?
+Generated Answer: Sunday
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: Mary's name is?
+Generated Answer: Mary
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: Enter the number fifty four thousand one hundred and fifteen in digits:
+Generated Answer: 54115
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: 3 plus four is what?
+Generated Answer: Seven
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: If the house is black, what colour is it?
+Generated Answer: Black
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: Which digit is 2nd in the number 7219158?
+Generated Answer: 2
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: Of the numbers five, 32, 35 or 17, which is the biggest?
+Generated Answer: 35
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: How many colours in the list butter, purple, trousers, horse and library?
+Generated Answer: Two
+OpenAI Result: Incorrect CAPTCHA answer. Please try again.
+
+CAPTCHA Question: Chris' name is?
+Generated Answer: Chris
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: What is forty one thousand four hundred and eighty six as a number?
+Generated Answer: 41486
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: The name of Thomas is?
+Generated Answer: Thomas
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: In the number 6465378, what is the 3rd digit?
+Generated Answer: 6
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: If a person is called Edward, what is their name?
+Generated Answer: Edward
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: What is Chris' name?
+Generated Answer: Chris
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: 15, eighteen, 79, 89 or 49: the highest is?
+Generated Answer: eighteen
+OpenAI Result: Incorrect CAPTCHA answer. Please try again.
+
+CAPTCHA Question: 40, eighteen, seven or 3: which of these is the highest?
+Generated Answer: forty
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: In the number 266885, what is the 3rd digit?
+Generated Answer: 6
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: Blue, shark, face and tracksuit: how many colours in the list?
+Generated Answer: One
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: The colour of a blue mouse is?
+Generated Answer: Blue
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: What is nine thousand and sixty two as digits?
+Generated Answer: 9062
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: Enter the number fifty thousand and sixty five in digits:
+Generated Answer: 50065
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: The list jelly, chin, pub, mosquito and hair contains how many body parts?
+Generated Answer: Two
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: Of the numbers 9, 80, 83, forty six, 4 or 77, which is the largest?
+Generated Answer: eighty-three
+OpenAI Result: Incorrect CAPTCHA answer. Please try again.
+
+CAPTCHA Question: Chest, black, school, soup, white and pink: how many colours in the list?
+Generated Answer: Three
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: Of the numbers 87, thirty eight, 71, twelve or fifty, which is the biggest?
+Generated Answer: eighty-seven
+OpenAI Result: Incorrect CAPTCHA answer. Please try again.
+
+CAPTCHA Question: What number is 3rd in the series 22, twenty five, one and 38?
+Generated Answer: one
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: The purple shorts is what colour?
+Generated Answer: Purple
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: In the number 4628435, what is the 4th digit?
+Generated Answer: 2
+OpenAI Result: Incorrect CAPTCHA answer. Please try again.
+
+CAPTCHA Question: If the duck is yellow, what colour is it?
+Generated Answer: Yellow
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: 19, 29 and thirty five: the 1st number is?
+Generated Answer: Nineteen
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: What is ninety nine thousand one hundred and ninety five as a number?
+Generated Answer: 99195
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: Enter the number twelve thousand eight hundred and twenty two in digits:
+Generated Answer: 12822
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: The green wine is what colour?
+Generated Answer: Green
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: 38, twenty five and twenty: the 1st number is?
+Generated Answer: Thirty-eight
+OpenAI Result: Incorrect CAPTCHA answer. Please try again.
+
+CAPTCHA Question: What is eighty five thousand eight hundred and thirty three as a number?
+Generated Answer: 85833
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: Cow, purple and church: how many colours in the list?
+Generated Answer: One
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: How many colours in the list stomach, rainjacket, red and bread?
+Generated Answer: One
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: How many colours in the list brown, rainjacket, yellow, church and mosquito?
+Generated Answer: Two
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: Brown, T-shirt, eye, red, chips and green: how many colours in the list?
+Generated Answer: Three
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: 72, forty four, forty three or 65: which of these is the biggest?
+Generated Answer: 72
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: 17, 100, 52, ninety five, 52 or sixty two: which of these is the largest?
+Generated Answer: ninety
+OpenAI Result: Incorrect CAPTCHA answer. Please try again.
+
+CAPTCHA Question: What is twenty two thousand three hundred and eighty as digits?
+Generated Answer: 22380
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: In the number 4373711, what is the 6th digit?
+Generated Answer: 1
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: Coat, hand, cake, tooth and foot: how many body parts in the list?
+Generated Answer: Three
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: What is the 4th colour in the list tracksuit, yellow, pink, blue and red?
+Generated Answer: Blue
+OpenAI Result: Incorrect CAPTCHA answer. Please try again.
+
+CAPTCHA Question: If a person is called Ruth, what is their name?
+Generated Answer: Ruth
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: Ant, leg and tongue: how many body parts in the list?
+Generated Answer: Three
+OpenAI Result: Incorrect CAPTCHA answer. Please try again.
+
+CAPTCHA Question: Ninety seven, 66 or seventy eight: which of these is the biggest?
+Generated Answer: Ninety
+OpenAI Result: Incorrect CAPTCHA answer. Please try again.
+
+CAPTCHA Question: If the sock is green, what colour is it?
+Generated Answer: Green
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: In the number 5158893, what is the 6th digit?
+Generated Answer: 9
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: Seventy, thirty two, seventy five, 78, one or 52: the biggest is?
+Generated Answer: 78
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: What is eleven thousand four hundred and ninety four as digits?
+Generated Answer: 11494
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: What's fifteen minus one?
+Generated Answer: Fourteen
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: 19, 29 and thirty five: the 1st number is?
+Generated Answer: Nineteen
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: Hospital, yellow and wine: how many colours in the list?
+Generated Answer: One
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: Forty two, fifty nine, thirty, six or forty three: the smallest is?
+Generated Answer: Six
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: If a person is called Chris, what is their name?
+Generated Answer: Chris
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: If the penguin is yellow, what colour is it?
+Generated Answer: Yellow
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: Enter the biggest number of one hundred, 37, 54 or 64:
+Generated Answer: One
+OpenAI Result: Incorrect CAPTCHA answer. Please try again.
+
+CAPTCHA Question: Twenty two, thirty, 18, 24 and 22: the 2nd number is?
+Generated Answer: Thirty
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: Mary's name is?
+Generated Answer: Mary
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: The colour of a pink face is?
+Generated Answer: Pink
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: 70, 76, twenty six or sixty six: which of these is the largest?
+Generated Answer: seventy
+OpenAI Result: Incorrect CAPTCHA answer. Please try again.
+
+CAPTCHA Question: If a person is called Linda, what is their name?
+Generated Answer: Linda
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: Purple, pink, black, brown, rice and mouse: the 4th colour is?
+Generated Answer: Brown
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: If a person is called Daniel, what is their name?
+Generated Answer: Daniel
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: The list toe, shark, pink, coat, elbow and restaurant contains how many colours?
+Generated Answer: One
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: What is the 3rd number in the list 14, 28, eleven and 3?
+Generated Answer: eleven
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: The number of body parts in the list shirt, elephant, glove, ear and chips is?
+Generated Answer: One
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: The list green, black, yellow, blue and house contains how many colours?
+Generated Answer: Four
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: Of the numbers ninety six, 71, eighty five, 16, fifty two or ninety two, which is the highest?
+Generated Answer: ninety
+OpenAI Result: Incorrect CAPTCHA answer. Please try again.
+
+CAPTCHA Question: What is five thousand one hundred and twenty six as digits?
+Generated Answer: 5126
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: Which of 90, nineteen, 22, eighty, 31 or twenty seven is the biggest?
+Generated Answer: Ninety
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: The list thumb, bee, ear and egg contains how many body parts?
+Generated Answer: Two
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: The list restaurant, duck, dog, toe and mouse contains how many body parts?
+Generated Answer: Two
+OpenAI Result: Incorrect CAPTCHA answer. Please try again.
+
+CAPTCHA Question: What is the 4th digit in 764560?
+Generated Answer: 5
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: What is seventy seven thousand one hundred and sixty nine as a number?
+Generated Answer: 77169
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: Nineteen, sixteen and 36: the 3rd number is?
+Generated Answer: Thirtysix
+OpenAI Result: Incorrect CAPTCHA answer. Please try again.
+
+CAPTCHA Question: How many colours in the list brown, purple, blue and chin?
+Generated Answer: Three
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: How many colours in the list red, black and tracksuit?
+Generated Answer: Two
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: 38, 72 or 71: which of these is the biggest?
+Generated Answer: 72
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: Twenty one, sixty eight, twenty one, 59, fifty three or 82: which of these is the largest?
+Generated Answer: eighty-two
+OpenAI Result: Incorrect CAPTCHA answer. Please try again.
+
+CAPTCHA Question: What is twenty five thousand six hundred and thirty two as a number?
+Generated Answer: 25632
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: The number of body parts in the list foot, dress and chest is?
+Generated Answer: Two
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: What is nine plus three?
+Generated Answer: Twelve
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: Which digit is 1st in the number 9586843?
+Generated Answer: Nine
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: 48, 47, two, forty, 27 or 85: which of these is the highest?
+Generated Answer: 85
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: Richard's name is?
+Generated Answer: Richard
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: What is Steven's name?
+Generated Answer: Steven
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: The colour of a red nose is?
+Generated Answer: Red
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: Of the numbers 94, fifty eight or twenty three, which is the smallest?
+Generated Answer: twenty
+OpenAI Result: Incorrect CAPTCHA answer. Please try again.
+
+CAPTCHA Question: What is the 3rd digit in 184736?
+Generated Answer: 4
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: What is the 5th digit in 9006750?
+Generated Answer: 7
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: White, rainjacket, library and trousers: how many colours in the list?
+Generated Answer: One
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: The 2nd colour in blue, egg and yellow is?
+Generated Answer: Egg
+OpenAI Result: Incorrect CAPTCHA answer. Please try again.
+
+CAPTCHA Question: What is eight thousand and nine as a number?
+Generated Answer: 8009
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: What is the 4th digit in 6037318?
+Generated Answer: 7
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: Eleven - three = ?
+Generated Answer: Eight
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: The 3rd number from 22, 15, thirty six, two and nineteen is?
+Generated Answer: thirty-six
+OpenAI Result: Incorrect CAPTCHA answer. Please try again.
+
+CAPTCHA Question: Which of eighty three, two, eighty two, 43 or 45 is the largest?
+Generated Answer: eighty ثلاثة
+OpenAI Result: Incorrect CAPTCHA answer. Please try again.
+
+CAPTCHA Question: How many colours in the list pink, red, black, white, bee and purple?
+Generated Answer: Five
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: What is twenty thousand two hundred and fifty two as a number?
+Generated Answer: 20252
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: The 1st colour in pink, brown and arm is?
+Generated Answer: Pink
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: If a person is called William, what is their name?
+Generated Answer: William
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: What number is 3rd in the series 34, 3 and 22?
+Generated Answer: 22
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: The colour of a blue prison is?
+Generated Answer: Blue
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: What is the 6th digit in 7432579?
+Generated Answer: Seven
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: Of the numbers 20, 22, 60, 49 or 21, which is the largest?
+Generated Answer: 60
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: What is forty three thousand eight hundred and fourteen as a number?
+Generated Answer: 43814
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: What number is 2nd in the series 31, fifteen and 29?
+Generated Answer: fifteen
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: Linda's name is?
+Generated Answer: Linda
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: Ruth's name is?
+Generated Answer: Ruth
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: In the number 2394122, what is the 6th digit?
+Generated Answer: Two
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: Seventeen - six equals ?
+Generated Answer: Eleven
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: The name of Carol is?
+Generated Answer: Carol
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: What number is 3rd in the series thirty two, thirty four, 36, sixteen and ten?
+Generated Answer: 36
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: 18 - 5 is what?
+Generated Answer: Thirteen
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: The number of body parts in the list stomach, finger, shirt, ankle and thumb is?
+Generated Answer: Four
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: 1, one, thirty six, 24 or seventy seven: the biggest is?
+Generated Answer: seventy
+OpenAI Result: Incorrect CAPTCHA answer. Please try again.
+
+CAPTCHA Question: Enter the biggest number of 65, forty two, thirty six, 7 or fifteen:
+Generated Answer: Sixtyfive
+OpenAI Result: Incorrect CAPTCHA answer. Please try again.
+
+CAPTCHA Question: 50, thirty eight, thirty, twenty six, eighty nine or fifty three: which of these is the biggest?
+Generated Answer: eighty
+OpenAI Result: Incorrect CAPTCHA answer. Please try again.
+
+CAPTCHA Question: Sixty two, sixty nine, 24, 5, sixty nine or eighty six: which of these is the highest?
+Generated Answer: eighty-six
+OpenAI Result: Incorrect CAPTCHA answer. Please try again.
+
+CAPTCHA Question: What is the 1st number in the list 38, four and 30?
+Generated Answer: 38
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: The 2nd number from 2, 15 and 15 is?
+Generated Answer: 15
+OpenAI Result: CAPTCHA passed!
+
+CAPTCHA Question: If a person is called Charles, what is their name?
+Generated Answer: Charles
+OpenAI Result: CAPTCHA passed!
+

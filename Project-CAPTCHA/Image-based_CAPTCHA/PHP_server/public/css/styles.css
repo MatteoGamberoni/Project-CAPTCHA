@@ -1,0 +1,168 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.toolbar {
+    background-color: tomato;
+    color: black;
+    padding: 1px;
+    font-size: 15px;
+    position: relative;
+    margin-bottom: 5px;
+    text-align: right;
+}
+
+img {
+    max-width: 15%;
+    height: auto;
+    margin: 20px 0;
+}
+
+button {
+    padding: 10px 20px;
+    margin: 5px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.message {
+    margin-top: 20px;
+    font-size: 18px;
+    color: blue;
+}
+
+/* CSS to control the CAPTCHA image size */
+.BDC_CaptchaImageDiv img {
+    width: 100%;  /* Set to 100% to make it responsive */
+    max-width: 600px; /* Max size */
+    height: auto;  /* Maintain aspect ratio */
+}
+
+/* Style the input box for better alignment */
+#CaptchaCode {
+    font-size: 24px;
+    padding: 10px;
+    width: 300px;
+    margin-top: 10px; /* Give some space between the input and CAPTCHA */
+}
+
+/* Style the submit button */
+button {
+    font-size: 16px;
+    padding: 12px 24px;
+    margin-top: 10px;
+}
+
+/* Center the CAPTCHA container on the page */
+.captcha-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+    text-align: center;
+}
+
+/* Style the CAPTCHA image container */
+.captcha-image-container {
+    width: 100%;
+    max-width: 700px;  /* Limit the width for large screens */
+    height: auto;
+    margin-bottom: 20px;
+}
+
+/* Responsive design for smaller screens */
+@media (max-width: 768px) {
+    /* For smaller screens, reduce CAPTCHA size and input width */
+    .BDC_CaptchaImageDiv img {
+        max-width: 500px;
+    }
+
+    #CaptchaCode {
+        width: 80%;  /* Make input field responsive */
+    }
+    
+    button {
+        width: 80%;  /* Make button responsive */
+    }
+}
+
+/* Style for the CAPTCHA container */
+.captcha-container {
+    width: 100%;
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 2px solid #ccc;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+/* Style for the CAPTCHA heading */
+.captcha-container h3 {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+/* Space out the label and the CAPTCHA image */
+label {
+    font-size: 18px;
+    margin-bottom: 10px;
+    display: block;
+}
+
+/* Style the CAPTCHA image container */
+.BDC_CaptchaDiv {
+    width: 100%;
+    max-width: 400px;
+    margin: 10px auto;
+    display: block;
+}
+
+/* Style the input field for the CAPTCHA code */
+#CaptchaCode {
+    width: 100%;
+    max-width: 300px;
+    padding: 10px;
+    font-size: 16px;
+    margin-top: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    display: block;
+    margin-bottom: 20px;
+}
+
+/* Style for the submit button */
+#ValidateCaptchaButton {
+    padding: 10px 20px;
+    font-size: 18px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+/* Change button color on hover */
+#ValidateCaptchaButton:hover {
+    background-color: #45a049;
+}
+
+/* Style for validation message */
+.incorrect {
+    color: red;
+    font-size: 16px;
+    margin-top: 10px;
+}
+
+.correct {
+    color: green;
+    font-size: 16px;
+    margin-top: 10px;
+}

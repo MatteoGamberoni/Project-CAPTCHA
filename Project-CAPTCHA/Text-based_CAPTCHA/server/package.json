@@ -1,0 +1,20 @@
+{
+  "name": "project_captcha_backend",
+  "version": "1.0.0",
+  "description": "This is the server side backend used to fetch and validate CAPTCHA challenges on the static webpage.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "CAPTCHA"
+  ],
+  "author": "Matteo Gamberoni",
+  "license": "ISC",
+  "dependencies": {
+    "blueimp-md5": "^2.19.0",
+    "express": "^4.21.0",
+    "express-session": "^1.18.0",
+    "node-fetch": "^2.7.0"
+  }
+}

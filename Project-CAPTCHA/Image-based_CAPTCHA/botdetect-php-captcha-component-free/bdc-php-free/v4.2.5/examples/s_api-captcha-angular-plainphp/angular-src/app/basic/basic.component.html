@@ -1,0 +1,27 @@
+<form novalidate #f="ngForm" (ngSubmit)="validate(f.value, f.valid)">
+
+  <div class="alert alert-success" *ngIf="successMessages">
+    {{ successMessages }}
+  </div>
+
+  <div class="alert alert-error" *ngIf="errorMessages">
+    {{ errorMessages }}
+  </div>
+
+  <!-- captcha challenge: placeholder -->
+  <botdetect-captcha captchaStyleName="angularBasicCaptcha"></botdetect-captcha>  
+
+  <label>
+    <span>Retype the characters from the picture:</span>
+    <!-- captcha code: user-input textbox -->
+    <input
+      type="text"
+      id="userCaptchaInput"
+      name="userCaptchaInput"
+      ngModel
+      #userCaptchaInput="ngModel"  
+    >
+  </label>
+
+  <button type="submit">Validate</button>
+</form>
