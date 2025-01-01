@@ -20,19 +20,18 @@ def main():
     openai_executor = OpenAIExecutor(SelBot(), openai_model)
     time.sleep(3)
     openai_executor.execute_bot()
-    '''
+
     # Use Falcon
     falcon_executor = FalconExecutor(SelBot(), falcon_model)
     time.sleep(3)
     falcon_executor.execute_bot()
-    
+
     # Use RoBERTa
     roberta_executor = RobertaExecutor(SelBot(),
                                        falcon_model,
                                        roberta_model)
     time.sleep(3)
     roberta_executor.execute_bot()
-    '''
 
 
 if __name__ == "__main__":
